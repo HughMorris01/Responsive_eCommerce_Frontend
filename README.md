@@ -32,6 +32,6 @@ A responsive, high-fidelity eCommerce landing page designed to demonstrate maste
 ## 🚀 Local Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/HughMorris01/eCommerce_Site.git](https://github.com/HughMorris01/eCommerce_Site.git)
+   git clone (https://github.com/HughMorris01/Responsive_eCommerce_Frontend.git)
 
 2. Open index.html in any modern web browser.
