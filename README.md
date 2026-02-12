@@ -1,3 +1,5 @@
+<img width="1787" height="848" alt="image" src="https://github.com/user-attachments/assets/ec81fde1-6181-4533-a486-b6d5b6cf88f5" />
+
 # 🛒 Static eCommerce Landing Page
 
 A responsive, high-fidelity eCommerce landing page designed to demonstrate mastery of modern frontend fundamentals. This project focuses on a clean, conversion-oriented layout built entirely with vanilla web technologies.
